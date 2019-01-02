@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Web.Script.Serialization;
 
-namespace cn.ishanhui
+namespace cn.ishanhui.sdk
 {
     /// <summary>
     /// 类名：Notify

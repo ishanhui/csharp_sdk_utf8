@@ -7,7 +7,7 @@ using System;
 using System.Collections.Generic;
 using System.Xml;
 
-namespace cn.ishanhui
+namespace cn.ishanhui.sdk
 {
     /// <summary>
     /// 类名：Core

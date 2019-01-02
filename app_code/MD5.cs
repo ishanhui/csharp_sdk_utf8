@@ -4,7 +4,7 @@ using System.Text;
 using System.IO;
 using System.Security.Cryptography;
 
-namespace cn.ishanhui
+namespace cn.ishanhui.sdk
 {
     /// <summary>
     /// 类名：MD5

@@ -6,7 +6,7 @@ using System.Web;
 /// <summary>
 /// 二维码结果
 /// </summary>
-namespace cn.ishanhui
+namespace cn.ishanhui.sdk
 {
     public class QrCodeResult : OpenapiResponse
     {

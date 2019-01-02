@@ -1,5 +1,5 @@
 ﻿
-namespace cn.ishanhui
+namespace cn.ishanhui.sdk
 {
 
     public class Config

@@ -6,7 +6,7 @@ using System.Web;
 /// <summary>
 /// 网关响应数据
 /// </summary>
-namespace cn.ishanhui
+namespace cn.ishanhui.sdk
 {
     public class OpenapiResponse
     {

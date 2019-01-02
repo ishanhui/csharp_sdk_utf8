@@ -1,7 +1,7 @@
 ﻿/// <summary>
 /// 订单支付状态查询结果
 /// </summary>
-namespace cn.ishanhui
+namespace cn.ishanhui.sdk
 {
     public class PayStatusResult : OpenapiResponse
     {

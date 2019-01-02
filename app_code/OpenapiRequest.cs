@@ -4,7 +4,7 @@ using System.Net;
 using System;
 using System.Collections.Generic;
 
-namespace cn.ishanhui
+namespace cn.ishanhui.sdk
 {
 
     public class OpenapiRequest
