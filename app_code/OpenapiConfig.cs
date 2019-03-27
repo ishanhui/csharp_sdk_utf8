@@ -10,7 +10,7 @@ namespace cn.ishanhui.sdk
         private static string privateKey = "200A710CEABD4518AF9BC3A7A183B85D";//分配的密钥
         private static string charsetName = "utf-8"; //字符编码格式 目前仅支持utf-8
         private static string signType = "MD5";//签名方式，目前仅支持MD5
-        private static string serverUrl = "https://test.api.ishanhui.cn";//网关地址
+        private static string serverUrl = "http://test-api.tpddns.cn:81";//网关地址
         private static string payReturnUrl = "http://localhost:55016/return_url.aspx";//支付结果同步通知地址，不要带get参数
         private static string payNotifyUrl = "http://localhost:55016/notify_url.aspx";//支付结果异步通知地址，不要带get参数
         private static int timeout = 10000;//设置与网关通信超时时间,单位毫秒，默认10秒
